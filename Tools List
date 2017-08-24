@@ -1,0 +1,44 @@
+LAMP
+--------
+LAMP stack is a popular open source web platform commonly used to run dynamic web sites and servers.
+It includes Linux, Apache, MySQL, and PHP and is considered by many the platform of choice for web development. 
+
+Chef
+-----
+Chef is a configuration management tool for dealing with machine setup on physical servers, virtual machines and 
+in the cloud. Many companies use Chef software to control and manage their infrastructure including.
+
+Docker
+-------
+Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on
+laptops, data center VMs, or the cloud. 
+
+Vagrant
+-------
+Vagrant is a tool for building and distributing development environments. Development environments managed by Vagrant can run 
+on local virtualized platforms such as VirtualBox, in the cloud via AWS or OpenStack, or in containers such as with Docker. 
+
+
+Maven
+---------
+Apache Maven is a software project management tool. Maven makes life of developer easy while creating reports, checks, 
+build and testing automation setups
+
+Nexus
+------
+Nexus is a repository manager. It allows you to proxy, collect, and manage your dependencies so that you are not constantly
+juggling a collection of JARs. It makes it easy to distribute your software.
+
+Jenkins
+-------
+Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks such as building,
+testing, and deploying software.
+
+Nagios
+------
+Nagios Core, is a free and open source computer-software application that monitors systems, networks and infrastructure. 
+
+Sonarqube
+---------
+SonarQube is an open source quality management platform, dedicated to continuously analyze and measure source code quality. 
+
